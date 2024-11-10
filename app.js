@@ -29,5 +29,5 @@ app.post("/register", async (req, res) => {
 });
 
 app.listen(PORT, () => {
-  console.log(`Aku tresno ${PORT}`);
+  console.log(`Aku tresno ${PORT} brok`);
 });
